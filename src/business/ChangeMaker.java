@@ -10,7 +10,7 @@ public class ChangeMaker {
 		double price;
 		double samount;
 		
-		
+		//hello
 
 		System.out.println("Change Maker");
 		//ask for price of item
